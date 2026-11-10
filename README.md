@@ -1,3 +1,15 @@
+# Eco---Report
+(Pelaporan Lingkungan & Sampah Liar)
+Aplikasi pelaporan masalah lingkungan di tingkat rukun tetangga atau kelurahan, seperti tumpukan sampah liar, saluran air tersumbat, atau pohon tumbang. 
+Warga cukup mengunggah foto, deskripsi, dan titik koordinat GPS yang datanya langsung masuk ke dashboard pengurus setempat untuk ditindaklanjuti.
+
+Proyek 2 
+Kelompok: 
+Rafi Ramadhan (714250023)
+Fauzan Adriansah (714250030)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
